@@ -7,6 +7,7 @@
 }
 
 body {
+  background-color: rgb(139, 183, 220);
   font-family: "Metal Mania", sans-serif;
   display: flex;
   flex-direction: column;
